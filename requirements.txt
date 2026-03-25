@@ -1,0 +1,5 @@
+rich
+scikit-learn
+numpy
+streamlit
+deep-translator
